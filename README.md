@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/mscojl24/mscojl24/assets/119921683/452be73a-39cf-46d8-9e64-ffdc2e442e9d"/>
+  <img src="https://i.imgur.com/ULmNzfu.png"/>
  </p>
 
 
