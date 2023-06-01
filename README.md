@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src='https://github.com/mscojl24/mscojl24/assets/119921683/a8b201e8-257c-4f43-9861-353d70c27a3c' width="150px"/>
-
-  <p>
 
 
 <p align="center"><b>🛠 Tech Stack</b></p>
