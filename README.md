@@ -1,8 +1,11 @@
 
-
-
-<p align="center"><b>🛠 Tech Stack</b></p>
 <p align="center">
+  <img src='https://github.com/mscojl24/mscojl24/assets/119921683/a8b201e8-257c-4f43-9861-353d70c27a3c' width="150px"/>
+ </p>
+
+
+<p align="center">
+  <b>🛠 Tech Stack</b><br /><br />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
@@ -15,17 +18,16 @@
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/></a>&nbsp 
-<br />
-</p>
-<br />
-<p align="center"><b>👄 Communication</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <br /><br />
+  <b>👄 Communication</b><br /><br />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
 <br />
+
+
 <p align="center"><b>💡 GiHub Stats</b></p>
 <p align="center">
   <table>
