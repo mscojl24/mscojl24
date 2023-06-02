@@ -23,9 +23,3 @@
 <br />
 
 
-<p align="center"><b></b></p>
-<p align="center">
-
-</p>
-
-
