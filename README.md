@@ -6,7 +6,7 @@
 <br /><br />
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=50&duration=3000&pause=1500&color=eeeeee&center=true&vCenter=true&width=500&height=70&lines=%22+Hi+there%2C+I'm+Jubee+%22" alt="Typing SVG" /></a>
-</p>
+</p><br />
 <p align="center">
   <b>🌵 Tech Stack</b><br /><br />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffa000?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/styled components-ff7676?style=flat-square&logo=styled components&logoColor=white"/>
-  <br /><br />
+  <br />
   <img src="https://img.shields.io/badge/zustand-ffa000?style=flat-square&logo=Zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-347eff?style=flat-square&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
