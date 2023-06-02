@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/eF3VLNT.png"/><br/>
 </p> -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=93ABF7&center=%EA%B1%B0%EC%A7%93%EC%9D%98&vCenter=%EA%B1%B0%EC%A7%93%EC%9D%98&repeat=%EC%A7%84%EC%8B%A4%EC%9D%98&width=435&lines=code+written+for+you" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nabla&size=60&duration=4000&pause=1000&color=93ABF7&center=%EA%B1%B0%EC%A7%93%EC%9D%98&vCenter=%EA%B1%B0%EC%A7%93%EC%9D%98&repeat=%EC%A7%84%EC%8B%A4%EC%9D%98&width=550&height=100&lines=Hi+there%2C+I'm+Jubee" alt="Typing SVG" /></a>
   </p>
 <p align="center">
   <b>🌵 Tech Stack</b><br /><br />
