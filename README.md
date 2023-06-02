@@ -1,10 +1,5 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/JHUmmrY.png" />
- </p>
-
-
-<p align="center">
   <b>🛠 Tech Stack</b><br /><br />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
