@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/u0JvwoE.png"/>
+<img src="https://i.imgur.com/eF3VLNT.png"/>
 <p>
   <b>🛠 Tech Stack</b><br /><br />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
