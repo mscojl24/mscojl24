@@ -23,7 +23,7 @@
 <br />
 
 
-<p align="center"><b>💡 GiHub Stats</b></p>
+<p align="center"><b></b></p>
 <p align="center">
 
 </p>
