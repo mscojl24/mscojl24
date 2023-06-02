@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/MyeX1oh.png"/>
+  <img src="https://i.imgur.com/eF3VLNT.png"/>
 </p>
 <p align="center">
   <b>🌵 Tech Stack</b><br /><br />
