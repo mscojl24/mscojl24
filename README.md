@@ -25,13 +25,7 @@
 
 <p align="center"><b>💡 GiHub Stats</b></p>
 <p align="center">
-  <table>
-    <tr>
-      <td align="top" width="100%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscojl24&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 98%" />
-      </td>
-    </tr>
-  </table>
+
 </p>
 
 
