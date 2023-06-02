@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffa000?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/styled components-ff7676?style=flat-square&logo=styled components&logoColor=white"/>
-  <br />
+  <br /><br />
   <img src="https://img.shields.io/badge/zustand-ffa000?style=flat-square&logo=Zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-347eff?style=flat-square&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
@@ -23,11 +23,11 @@
     <img src="https://img.shields.io/badge/ESlint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-e13232?style=flat-square&logo=prettier&logoColor=white"/>
   <br /><br />
-  <b>⚡ Work Together</b><br /><br />
+<!--   <b>⚡ Work Together</b><br /><br />
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-2e2e2e?style=flat-square&logo=notion&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> -->
 </p>
 <br />
 <br /><br />
